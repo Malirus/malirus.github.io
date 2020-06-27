@@ -1,4 +1,4 @@
-# Toko-WA
+# Bahan belaajar pakai aja kalau mau
 Master code tentang toko-wa!
 Untuk bahan belajar.
 
