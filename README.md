@@ -1,5 +1,5 @@
 # Bahan belajar pakai aja kalau mau
-Master code tentang toko-wa!
+Master code
 Untuk bahan belajar.
 
 ---
