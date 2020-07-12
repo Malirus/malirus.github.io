@@ -1,6 +1,6 @@
 /*
 LiveSales-Static-Widget
-( c ) 2019 by. SEOTemplate.web.id
+( c ) 2020 by. Unknown
 */
 
 function load_css_head(posting) {
